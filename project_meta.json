@@ -3,7 +3,7 @@
   "old_slug": "data-quality-improvement-framework-for-business-reporti",
   "slug": "business-data-quality-framework",
   "folder": "Data_Quality_Improvement_Framework_For_Business_Reporti",
-  "kind": "general",
+  "kind": "framework",
   "body_words": 303,
   "source": "MICT Academic",
   "project_id": "Academic Project 46",
@@ -16,5 +16,6 @@
   },
   "has_automation": true,
   "entry": "python -m src.cli run",
-  "generatedUtc": "2026-11-09T13:07:13.755015+00:00"
+  "generatedUtc": "2026-11-09T13:17:40.212263+00:00",
+  "project_specific": true
 }
